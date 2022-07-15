@@ -16,17 +16,17 @@ Config.ESX = false -- Set this to true if you use ESX
 
 -- Types of identifiers: steam: | license: | xbl: | live: | discord: | fivem: | ip:
 Config.AdminList = {
-	'steam:110000113c27ef4', -- Example, change this
-	'discord:370910283901283929' -- Example, change this
+	'steam:', -- Example, change this
+	'discord:' -- Example, change this
 }
 
 -------------------------- DISCORD LOGS
 
 -- To set your Discord Webhook URL go to server.lua, line 13
 
-Config.BotName = 'OLRP' -- Write the desired bot name
+Config.BotName = 'WCUK' -- Write the desired bot name
 
-Config.ServerName = 'OLRP' -- Write your server's name
+Config.ServerName = 'WCUK' -- Write your server's name
 
 Config.IconURL = '' -- Insert your desired image link
 
@@ -39,5 +39,3 @@ Config.NewFeedbackWebhookColor = '65352'
 Config.AssistFeedbackWebhookColor = '16127'
 
 Config.ConcludeFeedbackWebhookColor = '16711680'
-
--- ok? wcuk
